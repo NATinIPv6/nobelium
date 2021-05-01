@@ -3,7 +3,7 @@ const BLOG = {
   author: 'NotArThursday',
   email: 'take a guess',
   link: 'https://nobelium-arthursday.vercel.app/',
-  description: 'Should I add something here？',
+  description: '这个人很懒，什么也没有写。',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
@@ -15,7 +15,7 @@ const BLOG = {
   sortByDate: false,
   showAbout: true, // WIP
   showArchive: true, // WIP
-  socialLink: 'And here？',
+  socialLink: 'https://t.me/joinchat/S2yaXXzk1bw78MgT',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
