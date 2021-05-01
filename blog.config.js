@@ -2,7 +2,7 @@ const BLOG = {
   title: '冷核污染',
   author: 'NotArThursday',
   email: 'take a guess',
-  link: 'https://nobelium.vercel.app',
+  link: 'https://natinipv6.nobelium.vercel.app',
   description: 'Should I add something here？',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
